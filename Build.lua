@@ -1,5 +1,6 @@
 include "Directory.lua"
 include "Dependencies.lua"
+include "Config.lua"
 
 workspace "CommonCPPTemplate"
 	architecture "x64"
